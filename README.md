@@ -7,7 +7,8 @@ Prof. Quirino         <luiz.quirino@ifsp.edu.br>
 ## Descrição das etapas implementadas :
 - etapa 1 - mudanças de layout
 - etapa 2 - criação e adição de componentes
-
+- etapa 3 - implementação de validação para campos vazios;
+  
 ## Alterações realizadas frente ao modelo de referência apresentado:
 - mudança da cor do background;
 - mudança do contorno do div;
