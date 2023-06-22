@@ -5,11 +5,8 @@ Aluno Nome Sobrenome  <pedro.satoshi@aluno.ifsp.edu.br>  \
 Prof. Quirino         <luiz.quirino@ifsp.edu.br>
 
 ## Descrição das etapas implementadas :
-- etapa 1 - xxx%
-- etapa 2 - xxx%
-- etapa 3 - xxx%
-- ...
-  Use o readme para documentar o andamento do seu projeto.
+- etapa 1 - mudanças de layout
+- etapa 2 - criação e adição de componentes
 
 ## Alterações realizadas frente ao modelo de referência apresentado:
 - mudança da cor do background;
